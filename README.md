@@ -40,3 +40,7 @@ Ideias e sugestões são sempre bem-vindas! Por favor, abra uma issue no reposit
    git push origin minha-nova-feature
    ```
 5. Abra um Pull Request.
+
+## Licença 📄
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
