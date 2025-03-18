@@ -2,8 +2,13 @@
 	"manifest_version": 3,
 	"name": "Studeo+",
 	"version": "1.0",
-	"description": "Adiciona funcionalidades extras ao Studeo da Unicesumar",
+	"description": "Uma extensão de navegador que adiciona funcionalidades ao Studeo da Unicesumar",
 	"permissions": ["activeTab"],
+	"icons": {
+		"16": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
 	"content_scripts": [
 		{
 			"matches": ["https://studeo.unicesumar.edu.br/*"],
