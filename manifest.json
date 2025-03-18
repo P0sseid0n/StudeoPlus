@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Studeo+",
+	"version": "1.0",
+	"description": "Adiciona funcionalidades extras ao Studeo da Unicesumar",
+	"permissions": ["activeTab"],
+	"content_scripts": [
+		{
+			"matches": ["https://studeo.unicesumar.edu.br/*"],
+			"js": ["main.js"]
+		}
+	]
+}
