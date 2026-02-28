@@ -4,7 +4,8 @@ Uma extensão de navegador que adiciona funcionalidades ao [Studeo da Unicesumar
 
 ## Features ✨
 
--  Adição de botão de prova agendada ao calendário 📅
+-  [x] Botão para adicionar lembrete de prova agendada ao calendário
+-  [ ] Botao para adicionar lembrete de entrega de atividade/MAPA ao calendário 📅
 
 ## Instalação 🛠️
 
